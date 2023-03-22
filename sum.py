@@ -1,0 +1,8 @@
+a = int(input('Enter the first number'))
+b = int(input('Enter the second number'))
+sum = (a + b)
+print(sum)
+minus = (a - b)
+print(minus)
+multiply = (a*b)
+print(multiply)
