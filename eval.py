@@ -1,0 +1,1 @@
+print(eval(abs('2+3')))
