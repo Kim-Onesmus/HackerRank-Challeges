@@ -1,0 +1,6 @@
+a = int(input('Enter the first no'))
+b = int(input('Enter the second no'))
+div = (a//b)
+print(div)
+divi = (a/b)
+print(divi)
